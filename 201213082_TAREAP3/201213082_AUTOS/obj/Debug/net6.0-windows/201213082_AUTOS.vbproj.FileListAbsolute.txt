@@ -1,0 +1,17 @@
+C:\Users\merce\Desktop\JOSELYN\PROGRA 092\201213082_TAREAP3\201213082_AUTOS\bin\Debug\net6.0-windows\201213082_AUTOS.exe
+C:\Users\merce\Desktop\JOSELYN\PROGRA 092\201213082_TAREAP3\201213082_AUTOS\bin\Debug\net6.0-windows\201213082_AUTOS.deps.json
+C:\Users\merce\Desktop\JOSELYN\PROGRA 092\201213082_TAREAP3\201213082_AUTOS\bin\Debug\net6.0-windows\201213082_AUTOS.runtimeconfig.json
+C:\Users\merce\Desktop\JOSELYN\PROGRA 092\201213082_TAREAP3\201213082_AUTOS\bin\Debug\net6.0-windows\201213082_AUTOS.dll
+C:\Users\merce\Desktop\JOSELYN\PROGRA 092\201213082_TAREAP3\201213082_AUTOS\bin\Debug\net6.0-windows\ref\201213082_AUTOS.dll
+C:\Users\merce\Desktop\JOSELYN\PROGRA 092\201213082_TAREAP3\201213082_AUTOS\bin\Debug\net6.0-windows\201213082_AUTOS.pdb
+C:\Users\merce\Desktop\JOSELYN\PROGRA 092\201213082_TAREAP3\201213082_AUTOS\obj\Debug\net6.0-windows\201213082_AUTOS.vbproj.AssemblyReference.cache
+C:\Users\merce\Desktop\JOSELYN\PROGRA 092\201213082_TAREAP3\201213082_AUTOS\obj\Debug\net6.0-windows\_201213082_AUTOS.Form1.resources
+C:\Users\merce\Desktop\JOSELYN\PROGRA 092\201213082_TAREAP3\201213082_AUTOS\obj\Debug\net6.0-windows\201213082_AUTOS.vbproj.GenerateResource.cache
+C:\Users\merce\Desktop\JOSELYN\PROGRA 092\201213082_TAREAP3\201213082_AUTOS\obj\Debug\net6.0-windows\201213082_AUTOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\merce\Desktop\JOSELYN\PROGRA 092\201213082_TAREAP3\201213082_AUTOS\obj\Debug\net6.0-windows\201213082_AUTOS.AssemblyInfoInputs.cache
+C:\Users\merce\Desktop\JOSELYN\PROGRA 092\201213082_TAREAP3\201213082_AUTOS\obj\Debug\net6.0-windows\201213082_AUTOS.AssemblyInfo.vb
+C:\Users\merce\Desktop\JOSELYN\PROGRA 092\201213082_TAREAP3\201213082_AUTOS\obj\Debug\net6.0-windows\201213082_AUTOS.vbproj.CoreCompileInputs.cache
+C:\Users\merce\Desktop\JOSELYN\PROGRA 092\201213082_TAREAP3\201213082_AUTOS\obj\Debug\net6.0-windows\201213082_AUTOS.dll
+C:\Users\merce\Desktop\JOSELYN\PROGRA 092\201213082_TAREAP3\201213082_AUTOS\obj\Debug\net6.0-windows\ref\201213082_AUTOS.dll
+C:\Users\merce\Desktop\JOSELYN\PROGRA 092\201213082_TAREAP3\201213082_AUTOS\obj\Debug\net6.0-windows\201213082_AUTOS.pdb
+C:\Users\merce\Desktop\JOSELYN\PROGRA 092\201213082_TAREAP3\201213082_AUTOS\obj\Debug\net6.0-windows\201213082_AUTOS.genruntimeconfig.cache
